@@ -70,7 +70,7 @@ Files: `notes-arrays-tuples.ts`, `03-arrays-tuples.ts`
 - Named tuples
 - Where tuples appear: `useState`, coordinates, CSV rows
 
-### Topic 9 — Union & Literal Types ⬜
+### Topic 9 — Union & Literal Types ✅
 Files: `notes-04-union-literal-types.ts`, `04-union-literal-types.ts`
 - Union types: `string | number`
 - Literal types: `'pending' | 'confirmed' | 'cancelled'`
@@ -78,7 +78,7 @@ Files: `notes-04-union-literal-types.ts`, `04-union-literal-types.ts`
 - Discriminated unions (preview)
 - React state and props patterns
 
-### Topic 10 — Type Inference & Compatibility ⬜
+### Topic 10 — Type Inference & Compatibility ✅
 Files: `notes-05-type-inference.ts`, `05-type-inference.ts`
 - When TypeScript infers automatically
 - When to annotate explicitly
